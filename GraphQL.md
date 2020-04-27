@@ -27,6 +27,10 @@ type User {
   uid: String!
   posts: [Post!]!
 }
+
+type Post {
+  text: String!
+}
 ```
 
 ### **GraphQL is the better REST
