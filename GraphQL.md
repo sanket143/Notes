@@ -22,6 +22,8 @@ to perform a given task.
 We define GraphQL schema based on what kind of query we can encounter. GraphQL schema also support types
 which we had to specify for each field.
 
+### **Example for GraphQL**
+
 ```graphql
 type User {
   uid: String!
@@ -33,5 +35,6 @@ type Post {
 }
 ```
 
-### **GraphQL is the better REST
+
+### **GraphQL is the better REST**
 
