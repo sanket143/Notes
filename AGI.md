@@ -1,3 +1,6 @@
+---
+title: AGI
+---
 
 me too, AGI is much broader than what I was assuming, it is much
 more than human intelligence. 
