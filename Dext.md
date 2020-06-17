@@ -24,7 +24,7 @@ front-end.
 
 ### **Advantages**
 
-- Reduces in the amount of data that needs to be downloaded since
+- Reduces the amount of data that needs to be downloaded since
 front-end of the application is already there.
 
 It perfectly fit with in the analogy with Android application.
@@ -57,5 +57,3 @@ files.
 - It is Light it could possibly be the biggest leap
 in web performance. 
 - Everyone wants to surf internet as fast as they can, _there is no fastest_.
-
-### **What happened to Deno?**

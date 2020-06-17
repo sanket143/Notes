@@ -1,0 +1,62 @@
+# Hey - A mail client
+
+- Imbox
+  - Our email is everywhere, we can't control people mailing us
+  - Only important mails
+- Screener
+  - When first time anyone emails us, it goes to screener
+  - Block <-> Imbox
+- Read/Unread
+  - New for you (Unread mails), Previously seen
+- Reply later
+  - Stacks the mail somewhere, where it is handy
+- Focus and Reply
+  - Opens all mail from Replay later stack with Mail and reply
+box beside the mail
+- Set aside
+  - Mails that are for references like reminders and stuff
+  - Show it like vertical bars
+- Read together
+  - Feed like experience
+  - Mark all seen at the bottom
+- Organize using categories
+  - Feed for newsletters
+  - Paper trail, receits and stuff
+  - Open it like an actual feed, like we see in twitter
+- Contact Page
+  - Profile page for every person
+  - Shows attachments by that person
+  - Shows mails by that person
+  - Toggle, what to category should that person go to
+- Screener history
+  - Screened in/out
+  - toggle contacts in/out
+- Custom subject
+  - Like no subject mails
+  - So that it's easy to find it later
+- Merge mails
+  - Merge separate threads but are on same topic
+  - E.g. so many mail threads about exam updates,
+group it as "Exams"
+- Notifications
+  - All notifications are off by default
+  - Turn on for specific contacts or threads
+  - Turn on for specific grouped mail threads
+- All files
+  - Sort all the attachments
+  - Group by filt type of contact
+- Clips
+  - Select a line and save clip
+  - Clips library
+  - Highlighted clips
+- Ignore
+  - Ignore group of threads
+- Badges
+  - binocular badge: This mail with spy tracker
+- Keyboard shortcuts
+- Note to self
+  - Notes in threads
+- Stickies
+  - Sticky note sticks with the email.
+- Labels
+  - Labeling emails
