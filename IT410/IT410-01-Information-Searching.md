@@ -61,7 +61,6 @@ to be independent of each other
   - Content modification (more than 25% pages change daily)
   - Data gathered by search engine will become stale quickly
   - Crawlers need to revisit web pages regularly
-
 - Velocity
 - Variety
   - Diversity in data: media, text, files, binary, pictures.
